@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/RenataM82/PROJEKT-Penzion/issues"
   },
-  "homepage": "https://github.com/RenataM82/PROJEKT-Penzion#readme"
+  "homepage": "https://github.com/RenataM82/PROJEKT-Penzion#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.1"
+  }
 }
